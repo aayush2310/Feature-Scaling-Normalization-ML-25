@@ -1,0 +1,10 @@
+x(i)'=(x(i)-x(mean))/(x(max)-x(min))
+
+//We are doing mean centering.
+The new values obtained will lie between -1 and 1
+if the value is less than mean,then we will get a negative number else positive
+
+Used rarely,no class present in sklearn,need to create the class manually
+
+used where we need centered data,but people use standardization in its place
+
