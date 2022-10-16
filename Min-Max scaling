@@ -1,0 +1,7 @@
+x(i)'=(x(i)-x(min))/(x(max)-x(min))
+
+New value will range between 0 and 1
+
+Geometrical Intution:-
+We are taking the whole data and squeezing them in the 1*1 box on the positive quadrant
+If the data was 3D,then we would have been putting it into the unit cube
