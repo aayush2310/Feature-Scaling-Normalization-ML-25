@@ -1,0 +1,8 @@
+x(i)'=(x(i)-x(median))/(Inter Quartile Range)
+
+Inter Quartile Range = 75th percentile-25th percentile
+
+class present in sklearn:-Robustscaler
+
+Performs well on outliers
+
