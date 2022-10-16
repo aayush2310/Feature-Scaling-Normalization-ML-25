@@ -1,0 +1,9 @@
+Q1)Is feature scaling required??
+Q2)Now S vs N?
+=>Mostly we will be using standardization
+Normalization,specially min-max will be used when we know the minimum and maximum value of our dataset
+eg:-In image processing when we work on CNN(Convonutional Neural Network),we passed images,which had colour channels having minimum value 0 and maximum value 255=>min-max scaling
+
+when you have no idea-->standard scaling
+when you have outliers-->robust scaling
+when you have sparse matrix-->max-absolute scaling
