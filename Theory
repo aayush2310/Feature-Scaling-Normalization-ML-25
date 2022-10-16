@@ -1,0 +1,7 @@
+Normalization is a technique often applied as part of data preparation for ML.The goal of Normalization is to change the values of numeric columns in the dataset to use a common scale,without distorting differences in the ranges of values or losing information.
+
+Types:-
+1)Min-Max Scaling
+2)Mean Normalization
+3)Max absolute scaling
+4)Robust scaling
