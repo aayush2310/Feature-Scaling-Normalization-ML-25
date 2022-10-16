@@ -1,0 +1,7 @@
+x(i)'=x(i)/|x(max)|
+
+class is there in sklearn:-MaxAbsscaler
+
+useful in case of sparse data,i.e. data having a lot of zeros
+
+sparse matrix
